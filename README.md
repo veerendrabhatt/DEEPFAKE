@@ -39,10 +39,10 @@ pip install -r requirements.txt
 ### Running the Web App
 
 ```bash
-python app.py
+python app_simple.py
 ```
 
-The Flask server will start, and you can access the application in your browser at `http://127.0.0.1:5000/`.
+The Flask server will start, and you can access the application in your browser at `http://127.0.0.1:5002/`.
 
 ### Using Pre-trained Model
 
